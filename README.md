@@ -21,3 +21,7 @@
 <a href="https://github.com/manoel-alves/Programa_de_Calculos_em_C">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Programa_de_Calculos_em_C&theme=radical&hide_border=true" />
 </a>
+
+## 
+
+![snake animation](https://github.com/manoel-alves/manoel-alves/blob/output/github-contribution-grid-snake.svg)
