@@ -1,6 +1,6 @@
 # Bem-Vindo(a) ao meu portfólio! :man_technologist:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-alves&theme=tokyonight&count_private=true&include_all_commits&show_icons=true&line_height=20&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-alves&theme=tokyonight&count_private=true&include_all_commits&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true)
 
