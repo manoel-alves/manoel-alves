@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true&card_width=445)
 
 <a href="www.linkedin.com/in/manoel-alves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://beacons.page/manoelalves#email" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="mailto:manoelann@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 ## Meus projetos :rocket:
 
