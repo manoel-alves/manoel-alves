@@ -1,9 +1,9 @@
 # Bem-Vindo(a) ao meu portfólio! :man_technologist:
 
- <div>
+ <div display: inline-block>
   <a href="https://github.com/manoel-alves">
   <img src="https://github-readme-stats.vercel.app/api?username=manoel-alves&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=prs"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true&card_width=291"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@
   
 ## Meus projetos :rocket:
 
-<div>
+<div display: inline-block>
   <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_Xadrez_Console&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/manoel-alves/Conversor_de_Bases_Numericas"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Conversor_de_Bases_Numericas&theme=tokyonight&hide_border=true" />
