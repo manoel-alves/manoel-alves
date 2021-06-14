@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/manoel-alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoel-alves&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true&card_width=358"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manoel-alves&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=prs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&theme=tokyonight&hide_border=true&card_width=291"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,13 +22,13 @@
 ## Meus projetos :rocket:
 
 <div>
-  <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_Xadrez_Console&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_Xadrez_Console&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/manoel-alves/Conversor_de_Bases_Numericas"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Conversor_de_Bases_Numericas&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Conversor_de_Bases_Numericas"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Conversor_de_Bases_Numericas&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/manoel-alves/Programa_de_Calculos_em_C"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Programa_de_Calculos_em_C&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Programa_de_Calculos_em_C"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Programa_de_Calculos_em_C&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/manoel-alves/Contador_Binario-Arduino"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Contador_Binario-Arduino&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Contador_Binario-Arduino"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Contador_Binario-Arduino&theme=tokyonight&hide_border=true" />
   </a>
 </div>
  
