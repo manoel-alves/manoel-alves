@@ -1,9 +1,11 @@
 # Bem-Vindo(a) ao meu portfólio! :man_technologist:
+
 <div>
   <a href="https://github.com/manoel-alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoel-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=225"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=325"/><br>
 </div>
+  
 <div style="display: inline_block">
   <img align="center" alt="C sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
