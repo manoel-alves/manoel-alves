@@ -1,4 +1,4 @@
-# Bem-Vindo(a) ao meu portfólio! :man_technologist:
+# Welcome to my portfolio! :man_technologist:
 
 <div>
   <a href="https://github.com/manoel-alves">
@@ -22,7 +22,7 @@
   
 <br>
   
-# Meus projetos :rocket:
+# My Projects :rocket:
 
 <div>
   <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console"><img width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_Xadrez_Console&theme=tokyonight&hide_border=true" />
