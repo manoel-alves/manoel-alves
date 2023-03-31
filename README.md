@@ -29,7 +29,7 @@
   
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00F71A&multiline=true&repeat=false&width=435&height=40&lines=%3CProjetos%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00F71A&multiline=true&repeat=true&width=435&height=40&lines=%3CProjetos%3E)](https://git.io/typing-svg)
   
 <div>
   <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console">
@@ -48,7 +48,7 @@
 
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00F71A&multiline=true&repeat=false&width=435&height=40&lines=%3CProjetos+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00F71A&multiline=true&repeat=true&width=435&height=40&lines=%3CProjetos+%2F%3E)](https://git.io/typing-svg)
   
 <!--
 ![snake animation](https://github.com/manoel-alves/manoel-alves/blob/output/github-contribution-grid-snake.svg)
