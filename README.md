@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/manoel-alves">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoel-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&langs_count=9&theme=tokyonight&include_all_commits=true&hide_title=false&hide_border=true&border_radius=0&card_width=850"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoel-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-alves&layout=compact&langs_count=9&theme=tokyonight&include_all_commits=true&hide_title=false&hide_border=true&border_radius=0"/><br>
 </div>
   
 <div style="">
