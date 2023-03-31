@@ -38,11 +38,11 @@
   <a href="https://github.com/manoel-alves/Projeto_SalesWebMvc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_SalesWebMvc&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/manoel-alves/Conversor_de_Bases_Numericas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Conversor_de_Bases_Numericas&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Sistema_Hospitalar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Sistema_Hospitalar&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/manoel-alves/Programa_de_Calculos_em_C">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Programa_de_Calculos_em_C&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/manoel-alves/Task_Manager-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Task_Manager-app&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
