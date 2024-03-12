@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=3000&color=00F71A&vCenter=true&multiline=true&width=435&height=60&lines=%3CWELCOME%2C+STRANGER!+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=300&size=28&duration=1900&pause=3000&color=1BC61B&vCenter=true&random=false&width=435&lines=%3CWelcome%2C+Stranger+%2F%3E)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/manoel-alves">
@@ -33,8 +33,8 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00F71A&multiline=true&repeat=true&width=435&height=40&lines=%3CProjetos%3E)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=300&duration=2900&pause=3000&color=1BC61B&vCenter=true&random=false&width=435&lines=%3CProjects%3E)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/manoel-alves/Projeto_Xadrez_Console">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Projeto_Xadrez_Console&theme=tokyonight&hide_border=true" />
@@ -49,10 +49,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=Task_Manager-app&theme=tokyonight&hide_border=true" />
   </a>
 </div>
-
 <br>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=00F71A&multiline=true&repeat=true&width=435&height=40&lines=%3CProjetos+%2F%3E)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=300&duration=2900&pause=3000&color=1BC61B&vCenter=true&random=false&width=435&lines=%3CProjects%2F%3E)](https://git.io/typing-svg)
   
 <!--
 ![snake animation](https://github.com/manoel-alves/manoel-alves/blob/output/github-contribution-grid-snake.svg)
