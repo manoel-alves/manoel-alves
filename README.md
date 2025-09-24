@@ -24,6 +24,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Currently Working on
+<div>
+	<a href="https://github.com/manoel-alves/Projeto_SalesWebMvc">
+    	<img src="https://github-readme-stats.vercel.app/api/pin/?username=manoel-alves&repo=iam-secure&theme=tokyonight" />
+  	</a>
+</div>
+
 ## ⭐ Portfolio
 <div>
   <a href="https://github.com/manoel-alves/Projeto_SalesWebMvc">
